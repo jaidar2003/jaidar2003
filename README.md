@@ -2,6 +2,7 @@ Hallo zusammen 👋.
 - 👋 Ich bin Student der Softwaretechnik
 - 👀 Ich interessiere mich für Python
 - 🌱 Ich lerne gerade Python und SQL
+- 🇦🇷  Alle Projekte stammen von der Universität.
 - 📫 Wie Sie mich erreichen können: juanmanuelaidar@gmail.com
 
 <!---
