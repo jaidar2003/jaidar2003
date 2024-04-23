@@ -3,9 +3,12 @@ Hallo zusammen 👋.
 - 👀 Ich interessiere mich für Python
 - 🌱 Ich lerne gerade Python und SQL
 - 🇦🇷  Alle Projekte stammen von der Universität.
-- 📫 Wie Sie mich erreichen können: juanmanuelaidar@gmail.com
 
-
+Hello everyone 👋.
+- 👋 I am a student of software engineering
+- 👀 I am interested in Python
+- 🌱 I am currently learning Python and SQL
+- 🇦🇷 All projects are from university.
 
 <!---
 jaidar2003/jaidar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
